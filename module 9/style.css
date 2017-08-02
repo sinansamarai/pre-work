@@ -1,0 +1,18 @@
+#first {color:red}
+#second {color: blue}
+#third {color: green}
+
+img { border: 1px solid powderblue ; 
+	padding:30px; }
+
+h1,h2 {text-align: center;}
+
+#forth {font-size: 30px}
+#fifth{font-size: 10px}
+
+#sinan {text-align: center;}
+#sinan2 {font-weight: bold;}
+#sinan3 {font-style: italic;}
+#sinan4 {font-weight: : bold ; color: orange ; font-size: 30px;}
+
+.styledFont {font-size:24px}
